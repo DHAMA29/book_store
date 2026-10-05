@@ -1,0 +1,25 @@
+CATATAN ARRAY C++
+
+Array C++ dimulai dari index 0.
+
+USER -> ARRAY
+Pilihan user dimulai dari 1, jadi gunakan -1.
+
+contoh:
+pilihan = 2
+harga[pilihan - 1]
+2 - 1 = 1
+=> mengambil index 1
+
+ARRAY -> USER
+Index array dimulai dari 0, jadi gunakan +1 saat ditampilkan.
+
+contoh:
+i = 0
+cout << i + 1
+0 + 1 = 1
+=> tampil nomor 1
+
+INGAT:
+Tampilan ke user = i + 1
+Mengambil data array = pilihan - 1

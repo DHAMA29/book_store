@@ -1,0 +1,6 @@
+int total = 10;
+total += 5;
+
+sama artinya dengan
+
+total = total + 5;
